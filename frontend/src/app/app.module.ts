@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import {HttpClientModule} from '@angular/common/http';
-import { FormsModule,ReactiveFormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AdduserComponent } from './components/adduser/adduser.component';
 import { UpdateuserComponent } from './components/updateuser/updateuser.component';
 import { ViewuserComponent } from './components/viewuser/viewuser.component';
