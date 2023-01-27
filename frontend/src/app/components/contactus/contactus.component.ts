@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./contactus.component.css']
 })
 export class ContactusComponent {
-
+  submit()
+{
+console.log("Query Submitted")
+}
 }
